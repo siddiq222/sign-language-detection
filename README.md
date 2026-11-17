@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Handwritten Digit Recognition — Modularized Project
 
 This is your original `digit_recognition.ipynb` notebook split into a proper
@@ -111,3 +112,6 @@ video feed. Press `p` to classify what you drew.
 - Debug/environment-check cells (`pip show opencv-python`, `dir(mp)`,
   printing `sys.executable`, etc.) were left out — they were one-off
   checks, not part of the application logic.
+=======
+# sign-language-detection
+>>>>>>> aa96a7f05419e0e8a6c4ccea093d4c24353dc3ad
